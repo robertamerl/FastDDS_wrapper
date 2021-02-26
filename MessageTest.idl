@@ -1,0 +1,5 @@
+struct MessageTest
+{
+    double now;
+    string message;
+};
