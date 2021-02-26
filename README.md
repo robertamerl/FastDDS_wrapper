@@ -1,2 +1,2 @@
 # FastDDS_wrapper
-wrapper arounf Fast DDS Library
+wrapper around Fast DDS Library
